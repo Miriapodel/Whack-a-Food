@@ -8,3 +8,6 @@ Scopul este sa aduni cat mai multe puncte, dand click pe mancare. Daca este dat 
 
 Jocul are 3 dificultati(easy, medium, hard). In functie de dificultate, mancarea apare si dispare mai repede de pe tabla, iar numarul de ratari permise scade cu cat dificultatea creste.
 
+![Poza_Meniu](https://github.com/Miriapodel/Whack-a-Food-Joc/blob/main/waf.png)
+
+![Poza_Joc](https://github.com/Miriapodel/Whack-a-Food-Joc/blob/main/waf2.png)
